@@ -1,2 +1,4 @@
 # alu-web-development
-HTML page
+** Basic html**
+## Authors
+Vestine Pendo
